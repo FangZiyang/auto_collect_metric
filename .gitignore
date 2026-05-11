@@ -1,0 +1,7 @@
+.env
+.cache/
+repos/
+outputs/
+~$*.xlsx
+*.pyc
+__pycache__/
