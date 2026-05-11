@@ -1,0 +1,91 @@
+﻿Metric,Gazebo,Webots,Bullet / PyBullet,CoppeliaSim (V-REP),MuJoCo,ODE (Open Dynamics Engine),ROS 2 ,OpenRAVE,PhysX (open-source SDK),AirSim,Drake,DART,CARLA,MORSE,Simbody,OMPL (Open Motion Planning Library),Pinocchio,OROCOS,SOFA,MoveIt!,GraspIt!,Habitat,Project Chrono,Flightmare,MRPT,Newton Dynamics,YARP,OpenRTM-aist
+Software name? (string),Gazebo,Webots,PyBullet,CoppeliaSim,MuJoCo,ODE (Open Dynamics Engine),ROS 2 (Robot Operating System 2),OpenRAVE (Open Robotics Automation Virtual Environment),PhysX (NVIDIA PhysX),AirSim (Aerial Informatics and Robotics Simulation),Drake,DART (Dynamic Animation and Robotics Toolkit),CARLA (CAR Learning to Act),MORSE (Modular OpenRobots Simulation Engine),Simbody,OMPL (Open Motion Planning Library),Pinocchio,OROCOS (Open RObot COntrol Software),SOFA (Simulation Open Framework Architecture),MoveIt! (MoveIt 2 for ROS 2),GraspIt!,Habitat-Sim,Project Chrono,Flightmare,MRPT (Mobile Robot Programming Toolkit),Newton Dynamics,YARP (Yet Another Robot Platform),OpenRTM-aist
+URL? (URL),https://gazebosim.org,https://cyberbotics.com,https://pybullet.org,https://www.coppeliarobotics.com,https://mujoco.org,https://www.ode.org,https://ros.org,http://openrave.org,https://developer.nvidia.com/physx-sdk,https://microsoft.github.io/AirSim,https://drake.mit.edu,https://dartsim.github.io,https://carla.org,https://www.openrobots.org/wiki/morse,https://simtk.org/projects/simbody,https://ompl.kavrakilab.org,https://stack-of-tasks.github.io/pinocchio,https://www.orocos.org,https://www.sofa-framework.org,https://moveit.ai,http://graspit-simulator.github.io,https://aihabitat.org,https://projectchrono.org,https://uzh-rpg.github.io/flightmare,https://www.mrpt.org,https://github.com/JulioJerez/newton-dynamics,https://www.yarp.it,https://www.openrtm.org
+Number of developers (all developers that have contributed at least one commit to the project) (use repo commit logs) (number),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"How is the project funded? (unfunded, unclear, funded∗) where ∗ requires a string to say the source of funding","funded (Open Source Robotics Foundation through contracts, grants, and donations from DARPA, NASA, Amazon, Bosch, Nvidia, Toyota Research Institute, and others)",funded (Cyberbotics),unclear,funded,funded,unfunded,funded,unclear,funded,funded,unclear,funded,funded,unclear,unclear,unclear,unclear,unclear,unclear,unclear,unclear,funded,unclear,unclear,unclear,unclear,unclear,unclear
+Initial release date? (date),2012-04-15,1996,2016,2013,2012,2001,2017,2008,2001,2017,2012,2012,2017,2009,2011,2010,2014,2000,2006,2011,2000,2019,2000,2020,2005,2003,2006,2006
+Last commit date? (date),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"License? (GNU GPL, BSD, MIT, terms of use, trial, none, unclear, other∗) ∗ given via a string",other (Apache-2.0),other (Apache-2.0),other (zlib License),other (mixed licensing: GPL + commercial/educational licenses),other (Apache-2.0),other (dual license: BSD-style / LGPL-2.1-or-later),other (Apache-2.0),other (LGPL-3.0-or-later + Apache-2.0),bsd,mit,bsd,bsd,mit,bsd,other (Apache-2.0),bsd,bsd,other (GPL-2.0-with-runtime-exception + LGPL-2.1-or-later),other (LGPL-2.1-or-later),bsd,GNU GPL (v3 or later),mit,bsd,mit,bsd,other (zlib License),bsd,other (LGPL-2.1)
+"Platforms? (set of Windows, Linux, OS X, Android, other∗) ∗ given via string","Windows, Linux, OS X","Windows, Linux, OS X","Windows, Linux, OS X","Windows, Linux, OS X","Windows, Linux, OS X","Windows, Linux, OS X","Windows, Linux, OS X","Linux, OS X, Windows",Windows,"Windows, Linux","Linux, OS X","Ubuntu, Archlinux, FreeBSD, macOS, and Windows.","Windows, Linux","Windows, Linux, OS X","Windows, Linux, OS X","Windows, Linux, OS X","Windows, Linux, OS X","Windows, Linux, OS X","Windows, Linux, OS X","Windows, Linux","Windows, Linux, OS X","Linux, OS X","Windows, Linux, OS X",Linux,"Windows, Linux, OS X","Windows, Linux, OS X, Android","Windows, Linux, OS X","Windows, Linux, OS X"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Source code URL? (set of url, n/a, unclear)",https://github.com/gazebosim/gz-sim,https://github.com/cyberbotics/webots,https://github.com/bulletphysics/bullet3,https://github.com/CoppeliaRobotics/coppeliaSimLib,https://github.com/google-deepmind/mujoco,"https://bitbucket.org/odedevs/ode, https://github.com/thomasmarsh/ODE","https://github.com/ros2/ros2, https://github.com/ros2/rclcpp, https://github.com/ros2/rcl",https://github.com/rdiankov/openrave,"https://github.com/NVIDIA-Omniverse/PhysX, https://github.com/NVIDIAGameWorks/PhysX",https://github.com/microsoft/AirSim,https://github.com/RobotLocomotion/drake,https://github.com/dartsim/dart,https://github.com/carla-simulator/carla,https://github.com/morse-simulator/morse,https://github.com/simbody/simbody,https://github.com/ompl/ompl,https://github.com/stack-of-tasks/pinocchio,"https://github.com/orocos/orocos_kinematics_dynamics, https://github.com/orocos-toolchain/rtt",https://github.com/sofa-framework/sofa,"https://github.com/moveit/moveit2, https://github.com/moveit/moveit",https://github.com/graspit-simulator/graspit,https://github.com/facebookresearch/habitat-sim,https://github.com/projectchrono/chrono,https://github.com/uzh-rpg/flightmare,https://github.com/MRPT/mrpt,https://github.com/JulioJerez/newton-dynamics,https://github.com/robotology/yarp,https://github.com/OpenRTM/OpenRTM-aist
+"Programming language(s)? (set of FORTRAN, Matlab, C, C++, Java, R, Ruby, Python, Cython, BASIC, Pascal, IDL, unclear, other∗) ∗ given via string","C++, Python","C, C++, Python, JavaScript","C++, C, Python","C++, C, Python,  Java, MATLAB","C++, C, Python, other (C# for Unity plugin; Jupyter Notebook for tutorials)","C, C++","C++, Python, C, other (CMake, XML for package manifests)","C++, Python, other (Octave/MATLAB bindings; plugin interface supports other languages)","C++, C,python,CUDA","C++, C#, Python, other (Unreal Engine Blueprint scripting)","C++, Python, other ","C++, Python ","C++, Python, other (Unreal Engine Blueprint scripting)","Python, other (Blender Python API; C for performance-critical components)","C++, other (experimental Python bindings)","C++, Python (Python bindings via Py++ code generation)","C++, Python (Python bindings via Boost.Python; pip install pin)","C++, Python (PyKDL Python bindings)","C++, Python (Python bindings via SofaPython3)","C++, Python","C++, Python (ROS interface)","C++, Python","C++, Python (Python bindings via PyChrono)","C++, Python","C++, Python (pymrpt Python bindings)","C++, C","C++, Python (Python bindings), Java (Java bindings via SWIG)","C++, Python (OpenRTM-aist-Python: full Python implementation)"
+"Is there evidence that performance was considered? Performance refers to either speed, storage, or throughput. (yes∗, no)",yes ,yes ,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Additional comments? (can cover any metrics you feel are missing,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Any reference to the requirements specifications of the program or theory manuals? (yes∗ , no, unclear)",yes ,yes,yes,yes,unclear,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+"What tools or techniques are used to build confidence of correctness? (literate programming, automated testing, symbolic execution, model checking, assertions used in the code, Sphinx, Doxygen, Javadoc, confluence, unclear, other∗) ∗ given via string","automated testing, Doxygen (API documentation), assertions used in the code","automated testing, Doxygen (API documentation)","automated testing, Doxygen (for C++ API)","automated testing, Doxygen (API documentation)","automated testing, Sphinx (documentation), other (Jupyter Notebook tutorials with expected outputs)","automated testing, Doxygen (API documentation), assertions used in the code","automated testing, Sphinx (documentation), Doxygen (C++ API), other (ament_lint code linting; ament_cmake test framework; colcon build system integration)","automated testing, Doxygen (API documentation), assertions used in the code","automated testing, Doxygen (API documentation), assertions used in the code","automated testing, Doxygen (API documentation)","automated testing, Sphinx (documentation), Doxygen (C++ API), model checking, assertions used in the code, other (lcov for code coverage; ci/cd with Bazel test suite; over 95% code coverage target)","automated testing, Doxygen (API documentation), assertions used in the code","automated testing, Sphinx (Python API documentation), other (scenario-based regression testing with ScenarioRunner)","automated testing, Sphinx (documentation)","automated testing, Doxygen (API documentation), assertions used in the code","automated testing, Doxygen (API documentation), other (built-in benchmarking framework for algorithm correctness and performance comparison)","automated testing, Doxygen (API documentation), assertions used in the code, other (analytical derivatives verified against finite differences in test suite)","automated testing, Doxygen (API documentation)","automated testing, Doxygen (API documentation)","automated testing, Doxygen (API documentation), Sphinx (Python API docs)","Doxygen (API documentation), assertions used in the code","automated testing, Sphinx (Python documentation), other (Jupyter Notebook tutorials with expected outputs)","automated testing, Doxygen (API documentation), assertions used in the code","automated testing, other (RL training results compared to physical flight experiments as implicit validation)","automated testing, Doxygen (API documentation), assertions used in the code","automated testing, Doxygen (API documentation), assertions used in the code","automated testing, Doxygen (API documentation), assertions used in the code","automated testing, Doxygen (API documentation), assertions used in the code"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Are unit tests available? (yes, no, unclear)",yes,yes,yes,unclear,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes,yes,yes
+"Is there evidence of continuous integration? (for example mentioned in documentation, Jenkins, Travis CI, Bamboo, other) (yes∗, no, unclear)",yes (GitHub Actions CI/CD visible in repository),yes (GitHub Actions CI/CD visible in repository),yes,unclear,yes,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,no,yes,no,yes,yes
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Does the software handle unexpected/unanticipated input (like data of the wrong type, empty input, missing files or links) reasonably? (a reasonable response can include an appropriate error message.) (yes, no∗ )",yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+"For any plain text input files, if all new lines are replaced with new lines and carriage returns, will the software handle this gracefully? (yes, no∗, n/a)",To be measured,yes,yes,n/a,yes,n/a,yes,yes,n/a,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+What is the current version number? (number),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Is there any information on how code is reviewed, or how to contribute? (yes∗, no)",yes,"yes (GitHub pull request workflow, contribution guidelines, code of conduct documented)",yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+"Are artifacts available? (List every type of file that is not a code file – for examples please look at the 'Artifact Name' column of https://gitlab.cas.mcmaster.ca/SEforSC/se4sc/-/blob/git-svn/GradStudents/Olu/ResearchProposal/Artifacts_MiningV3.xlsx) (yes∗, no, unclear) ∗list via string",yes ,yes ,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+"What issue tracking tool is employed? (set of Trac, JIRA, Redmine, e-mail, discussion board, sourceforge, google code, git, BitBucket, none, unclear, other∗) ∗ given via string",git,git (GitHub Issues),git,git (GitHub Issues) and discussion board (official forum),git (GitHub Issues),BitBucket (issue tracker on bitbucket.org/odedevs/ode),git (GitHub Issues across ros2 organization repositories),git (GitHub Issues),git (GitHub Issues),git (GitHub Issues — now archived and read-only),git (GitHub Issues),git (GitHub Issues),git (GitHub Issues),git (GitHub Issues — no longer monitored),git (GitHub Issues) and SimTK.org tracker,git (GitHub Issues),git (GitHub Issues and GitHub Discussions),git (GitHub Issues and historical orocos.org tracker),git (GitHub Issues),git (GitHub Issues and GitHub Projects),git (GitHub Issues),git (GitHub Issues and GitHub Discussions),git (GitHub Issues),git (GitHub Issues),git (GitHub Issues),git (GitHub Issues and GitHub Discussions),git (GitHub Issues),git (GitHub Issues; previously SourceForge and AIST Trac)
+What is the percentage of identified issues that are closed? (percentage),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+What percentage of code is comments? (percentage),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Which version control system is in use? (svn, cvs, git, Github, unclear, other∗) ∗ given via string",Github,Github,git,Github,Github,other and github,Github,Github,Github,Github,Github,Github,Github,Github,Github,Github,Github,Github,Github,Github,Github,Github,Github,Github,Github,Github,Github,Github
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+How many code files are there? ( (0-9=0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Is API documented? (yes, no, n/a)",yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Consistent indentation and formatting style? (yes, no, n/a)",yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+"Explicit identification of a coding standard? (yes∗, no, n/a)",yes,yes,yes,no,yes,no,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,yes,no,yes,yes,no,yes,no,yes,yes
+"Are the code identifiers consistent, distinctive, and meaningful? (yes, no∗ , n/a)",yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+"Are constants (other than 0 and 1) hard coded into the program? (yes, no∗ , n/a)",yes,yes (some magic constants appear in sampled source files),yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+"Comments are clear, indicate what is being done, not how? (yes, no∗ , n/a)",yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+"Parameters are in the same order for all functions? (yes, no∗ , n/a)",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Is the name/URL of any algorithms used mentioned? (yes, no∗ , n/a)",yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+"Is code modularized? (yes, no∗ , n/a)",yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Overall impression? (1 .. 10),10,7,7,7,8,7,8,8,8,7,8,7,7,6,7,9,8,6,7,8,5,8,7,6,8,6,7,7
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Is the development process defined? If yes, what process is used. (yes∗, no, n/a)",yes,"yes (GitHub workflow with pull requests, code review, CI/CD)",yes,yes,yes,yes,yes,"yes,git ci",yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+"Are there any documents recording the development process and status? (yes∗, no))",yes,"yes (GitHub Issues, pull requests, release notes)",yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+"Is the development environment documented? (yes∗, no)",yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+"Are there release notes? (yes∗, no)",yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes
+Overall impression? (1 .. 10),10,8,7,7,8,7,9,7,8,7,9,7,8,5,7,9,8,6,7,9,5,8,8,5,8,5,8,7
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number of text-based files. (number),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number of binary files. (number),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number of total lines in text-based files. (number),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number of total lines added to text-based files. (number),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number of total lines deleted from text-based files. (number),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number of total commits. (number),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Numbers of commits by year in the last 5 years. (Count from as early as possible if the project is younger than 5 years.) (list of numbers),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Numbers of commits by month in the last 12 months. (list of numbers),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number of text-based files. (number),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number of total lines in text-based files. (number),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number of code lines in text-based files. (number),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number of comment lines in text-based files. (number),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number of blank lines in text-based files. (number),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number of stars. (number),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number of forks. (number),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number of people watching this repo. (number),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number of open pull requests. (number),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number of closed pull requests. (number),,,,,,,,,,,,,,,,,,,,,,,,,,,,
